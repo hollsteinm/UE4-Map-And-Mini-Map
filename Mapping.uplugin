@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Mapping",
+	"Description": "Mapping and Mini-Map System Plugin with Slate UI Starter Content for fast prototyping.",
+	"Category": "UI",
+	"CreatedBy": "Martin Hollstein",
+	"CreatedByUrl": "https://hollstein.dev",
+	"DocsURL": "https://www.github.com/hollsteinm/UE4-Map-And-Mini-Map",
+	"SupportURL": "https://www.github.com/hollsteinm/UE4-Map-And-Mini-Map/issues",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Mapping",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
